@@ -1,4 +1,4 @@
-World Cup Data Analysis Dashboard
+## World Cup Data Analysis Dashboard
 About the Project
 
 This project presents an interactive Power BI dashboard analyzing FIFA World Cup data across different tournaments and countries.
@@ -21,3 +21,7 @@ Tools & Technologies
 
 Dashboard
 The dashboard provides interactive visualizations that allow users to explore World Cup data by year, country, and competition statistics.
+
+## Dashboard Preview
+
+![World Cup Dashboard](world-cup-dashboard.png)
